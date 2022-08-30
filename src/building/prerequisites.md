@@ -37,7 +37,8 @@ winget install -e Kitware.CMake
 ```
 
 If any of those is installed already, winget will detect it.
-Then edit your systems `PATH` variable and add: `C:\Program Files\CMake\bin`.
+Then [edit your system's `PATH` variable](https://www.java.com/en/download/help/path.html)
+and add: `C:\Program Files\CMake\bin`.
 
 For more information about building on Windows,
 see [the `rust-lang/rust` README](https://github.com/rust-lang/rust#building-on-windows).
